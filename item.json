@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "name": "Tin Hifi C0",
+        "title": "Open-Back In-Ear Monitor with PU+Titanium Composite Diaphragm - Best $10 Audiophile Earbuds for Music Lovers, Featuring Crystal-Clear Sound, Lightweight Design, and Premium Build Quality, Perfect for Everyday Use and High-Fidelity Listening",
+        "price": 199576,
+        "description": "The TINHIFI C0 is a versatile open-back in-ear monitor designed for gaming and sleep, featuring a PU+titanium composite diaphragm and a 10mm dynamic driver for HiFi-grade sound and immersive audio. Crafted with aerospace-grade aluminum alloy via CNC machining, each earbud weighs just 3.8g, offering lightweight comfort. Its open-back design reduces ear pressure, making it ideal for extended wear during late-night gaming or pre-sleep relaxation. With a clear soundstage and powerful bass, it delivers precise gaming audio and natural vocals. Compatible with Type-C DAC and detachable 2Pin 0.78mm cables, it supports Android, iOS, and PC devices. At an unbeatable price, the TINHIFI C0 offers professional tuning, making it the best budget gaming and sleep earbuds choice for 2025.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/C035MM.webp"
+    },
+     {
+        "id": 2,
+        "name": "Tin Hifi C1",
+        "title": "New Budget Benchmark Earphones: Best 19-29USD for HiFi Music & Immersive Gaming, DLC Diaphragm Driver, Deep Bass, Zero-Pressure Sleep Earbuds, Ultimate Value",
+        "price": 316000,
+        "description": "TINHIFI C1 Budget Benchmark Earphones: Best 29USD value! 10mm DLC diaphragm driver delivers HiFi music and immersive gaming audio. Deep bass, clear highs, balanced mids, zero-pressure design for sleep and long wear. ",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/C1.webp"
+    },
+     {
+        "id": 3,
+        "name": "Tin Hifi C2",
+        "title": "Best Budget In Ear Earphones C2 Upgraded Mech Style High Fidelity Earphones, Suitable for PU+LCP Driver Gaming, Work, and Learning Experience High Fidelity, Gaming, Work, and Learning Mech Style Design and PU+LCP Driver Program",
+        "price": 560000,
+        "description": "TINHIFI C2 Upgraded Mech Style High Fidelity Earphones: Best value! 10mm PU+LCP diaphragm driver delivers HiFi music and immersive gaming audio. Deep bass, clear highs, balanced mids, zero-pressure design for sleep and long wear. ",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/C2.webp"
+    }, 
+    {
+        "id": 4,
+        "name": "Tin Hifi C3",
+        "title": "In-Ear Hi-Fi Earphones with PU+LCP Drivers, Best Ergonomic Design for Gaming, Work, and Study, 2023's Top Budget Choice",
+        "price": 703500,
+        "description": "TINHIFI C3 In-Ear Earphones - Your Best Budget Choice for Gaming, Work, and Study If you're looking for a high-quality and affordable in-ear earphone that's perfect for gaming, work, or study, TINHIFI C3 is an excellent choice. With its PU+LCP drivers, TINHIFI C3 delivers exceptional sound quality, providing you with a clear and immersive audio experience. Whether you're playing games, listening to music, or attending an online meeting, the TINHIFI C3's sound quality won't disappoint.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/C3-5-a05a.webp"
+    }, 
+    {
+        "id": 5,
+        "name": "Tin Hifi C3 MK2",
+        "title": "In-Ear IEM Headphones – Best $50 Wired 2Pin Interchangeable Earphones for Gaming, Music, and Audiophile Listening",
+        "price": 703500,
+        "description": "The C3 MKII, as the innovative upgrade of the TINHIFI C3, is centered around outstanding sound performance and exquisite craftsmanship,providing an unprecedented listening experience for users who pursue ultimate sound quality. This eye-catching new product has achieved a comprehensive breakthrough in sound quality, design, and materials, demonstrating the C3 MKII’s relentless pursuit of both music and craftsmanship. The C3 MKII is equipped with a newly developed 10mm PU+LCP composite diaphragm dynamic driver, which delivers a more refined and detailed sound performance. The new driver design allows for better control of the diaphragm movement, resulting in improved clarity and reduced distortion across the entire frequency range. The C3 MKII also features an upgraded acoustic chamber design, which enhances the overall soundstage and provides a more immersive listening experience. With its exceptional sound quality and attention to detail, the C3 MKII is an excellent choice for audiophiles and music enthusiasts seeking a high-quality in-ear monitor at an affordable price.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/C3MK2.webp"
+    }, 
+    {
+        "id": 6,
+        "name": "Tin Hifi T6",
+        "title": "In-Ear Monitor IEM, 1DD+1 Planar Hybrid Wired Earphones, Flagship Dynamic Driver, 3 Sound Tuning Styles with 6 Nozzles, Gaming & Studio Monitor Audiophile Earbuds",
+        "price": 1708000,
+        "description": "TINHIFI T6 is a high-end flagship wired Hi-Fi in-ear monitor featuring a flagship dynamic driver paired with a high-performance planar driver (1DD + 1 Planar). Built with a CNC-milled aerospace-grade aluminum acoustic chamber and a natural solid wood faceplate, T6 delivers exceptional sound coherence, fast transient response, and refined tonal balance. With three interchangeable acoustic nozzles                                                  offering three tuning styles, a modular 2PIN QDC cable supporting 3.5mm and 4.4mm connections, and premium liquid silicone ear tips, T6 is designed for audiophiles, gamers, and studio monitoring applications seeking precision, control, and luxury craftsmanship.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/T6.webp"
+    }, 
+    {
+        "id": 7,
+        "name": "Tin Hifi T7",
+        "title": "Ultimate Flagship Single Dynamic Driver In-Ear Monitor, Best Performance and Precision at $300, Exceptional Sound Quality and Deep Bass",
+        "price": 2757000,
+        "description": "The TINHIFI T7 features precision five-axis CNC machining, ultra-high vacuum vapor deposition, and a 10mm ultra-linear gold-plated diaphragm for superior sound quality. Its patented dual magnetic circuit and dual-curve acoustic chamber enhance audio performance. With interchangeable plugs (3.5mm and 4.4mm) and luxury accessories, the T7 offers a premium, customizable listening experience.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/T7.webp"
+    },
+    {
+        "id": 8,
+        "name": "TRUTHEAR GATE",
+        "title": "GATE, cost-effective dynamic driver in-ear headphone, Adopting N52 magnet double-cavity internal magnetic circuit dynamic driver, with a brand-new carbon LCP high-rigidity diaphragm",
+        "price": 384120,
+        "description": "TRUTHEAR GATE is a cost-effective dynamic driver in-ear headphone that delivers exceptional sound quality. It features an N52 magnet double-cavity internal magnetic circuit dynamic driver, which provides powerful and accurate audio performance. The brand-new carbon LCP high-rigidity diaphragm ensures clear and detailed sound reproduction, making it an excellent choice for music enthusiasts seeking high-fidelity audio at an affordable price.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/T_GATE.jpg"
+    },
+    {
+        "id": 9,
+        "name": "TRUTHEAR HOLA",
+        "title": "Adopting the polyurethane suspension composite liquid crystal dome diaphragm and dual-cavity internal magnetic circuit dynamic driver of N52 magnet",
+        "price": 331740,
+        "description": "TRUTHEAR HOLA features a polyurethane suspension composite liquid crystal dome diaphragm and a dual-cavity internal magnetic circuit dynamic driver powered by an N52 magnet, delivering exceptional sound quality and performance.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/HOLA.jpg"
+    },
+    {
+        "id": 10,
+        "name": "TRUTHEAR x Crinacle ZERO",
+        "title": "Adopt dual polyurethane suspension composite liquid-crystal dome diaphragm N52 Rubidium magnet double-cavity internal magnetic circuit dynamic driver",
+        "price": 1047600,
+        "description": "TRUTHEAR x Crinacle ZERO features a dual polyurethane suspension composite liquid-crystal dome diaphragm powered by an N52 Rubidium magnet double-cavity internal magnetic circuit dynamic driver, delivering exceptional sound quality and performance for audiophiles seeking a premium listening experience.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/zerob.jpg"
+    },
+     {
+        "id": 11,
+        "name": "TRUTHEAR x Crinacle ZERO:RED",
+        "title": "Adopt dual polyurethane suspension composite liquid-crystal dome diaphragm N52 Rubidium magnet double-cavity internal magnetic circuit dynamic driver",
+        "price": 1047600,
+        "description": "TRUTHEAR x Crinacle ZERO:RED features a dual polyurethane suspension composite liquid-crystal dome diaphragm powered by an N52 Rubidium magnet double-cavity internal magnetic circuit dynamic driver, delivering exceptional sound quality and performance for audiophiles seeking a premium listening experience.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/zerored.jpg"
+    },
+     {
+        "id": 12,
+        "name": "TRUTHEAR x Crinacle ZERO:BLUE2",
+        "title": "ZERO:BLUE2 features a dual-cavity internal magnetic circuit dynamic drivers design, incorporating a 10mm solid silica gel suspension composite liquid crystal dome with an N52 magnet and a 7.8mm upgraded polyurethane suspension liquid crystal dome with an N55 magnet.",
+        "price": 1047600,
+        "description": "The TINHIFI T7 features precision five-axis CNC machining, ultra-high vacuum vapor deposition, and a 10mm ultra-linear gold-plated diaphragm for superior sound quality. Its patented dual magnetic circuit and dual-curve acoustic chamber enhance audio performance. With interchangeable plugs (3.5mm and 4.4mm) and luxury accessories, the T7 offers a premium, customizable listening experience.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/zerob2.jpg"
+    },
+    {
+        "id": 13,
+        "name": "TRUTHEAR NOVA",
+        "title": "NOVA has slightly less bass gain than HARMAN IE 2019 curve and is close to the high-frequency amplitude response of HARMAN OE 2013 with high HRTF characteristics, which results in a warm, soft, clear and natural sound thanks to the brand-new overall system design of lowering the Q value.",
+        "price": 2992000,
+        "description": "NOVA high-performance 1DD+4BA In-ear headphone with 3-way crossover composite structure Adopting the polyurethane suspension composite liquid crystal dome diaphragm and dual-cavity internal magnetic circuit dynamic driver of N52 magnet Utilizing the DLP-3D printed cavity commonly used in high-end multi-driver and custom earphone Come with the braided cable with multi-core single-crystal copper Present the excellent objective index",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/NOVA.jpg"
+    },
+    {
+        "id": 14,
+        "name": "TRUTHEAR HEXA",
+        "title": "HEXA, a high-performance In-ear headphone combined with one dynamic driver + three balanced armature drivers hybrid structure",
+        "price": 1134900,
+        "description": "HEXA, a high-performance In-ear headphone combined with one dynamic driver + three balanced armature drivers hybrid structure, Adopting the polyurethane suspension composite liquid crystal dome diaphragm and dual-cavity internal magnetic circuit dynamic driver of N52 magnet Utilizing the DLP-3D printed cavity commonly used in high-end multi-driver and custom earphone Come with the braided cable with multi-core single-crystal copper Present the excellent objective index",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/HEXA.jpg"
+    },
+     {
+        "id": 15,
+        "name": "TRUTHEAR PURE",
+        "title": "PURE optimizes the frequency crossover and damping characteristics. By using a customized balanced armature driver similar to the WBFK series for the high-frequency range, it enhances the upper high frequency extension and improves both resolution and information delivery for these frequencies, while also supplementing the overall bandwidth.",
+        "price": 1134900,
+        "description": "The PURE optimizes the frequency crossover and damping characteristics. By using a customized balanced armature driver similar to the WBFK series for the high-frequency range, it enhances the upper high frequency extension and improves both resolution and information delivery for these frequencies, while also supplementing the overall bandwidth.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/PURE.jpg"
+    },
+     {
+        "id": 16,
+        "name": "Inawaken Dawn MS",
+        "title": "Dawn MS, a high-performance In-ear headphone combined with one dynamic driver + four balanced armature drivers hybrid structure",
+        "price": 800000,
+        "description": "Dawn MS, a high-performance In-ear headphone combined with one dynamic driver + four balanced armature drivers hybrid structure, Adopting the polyurethane suspension composite liquid crystal dome diaphragm and dual-cavity internal magnetic circuit dynamic driver of N52 magnet Utilizing the DLP-3D printed cavity commonly used in high-end multi-driver and custom earphone Come with the braided cable with multi-core single-crystal copper Present the excellent objective index",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/inawaken.webp"
+    },
+     {
+        "id": 17,
+        "name": "Kiwi Ears Belle",
+        "title": "The Belle features a custom-tuned 10mm dynamic driver that delivers rich, natural tonality with deep bass and smooth treble. Designed for both music lovers and everyday listeners, it combines refined tuning with elegant aesthetics for a beautifully balanced listening experience.",
+        "price": 521855,
+        "description": "The Belle’s unique tuning incorporates a precise 3kHz pinna peak to balance heavy bass and warm mids. The result is a sound signature that is both engaging and natural, making it ideal for a wide range of music genres. With its custom-tuned 10mm dynamic driver, the Belle delivers rich, natural tonality with deep bass and smooth treble. Designed for both music lovers and everyday listeners, it combines refined tuning with elegant aesthetics for a beautifully balanced listening experience.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/Kiwi_Ears_Belle.webp"
+    },
+     {
+        "id": 18,
+        "name": "Kiwi Ears Cadenza",
+        "title": "The Cadenza features a custom-tuned 10mm dynamic driver that delivers rich, natural tonality with deep bass and smooth treble. Designed for both music lovers and everyday listeners, it combines refined tuning with elegant aesthetics for a beautifully balanced listening experience.",
+        "price": 1134900,
+        "description": "The Cadenza’s unique tuning incorporates a precise 3kHz pinna peak to balance heavy bass and warm mids. The result is a sound signature that is both engaging and natural, making it ideal for a wide range of music genres. With its custom-tuned 10mm dynamic driver, the Cadenza delivers rich, natural tonality with deep bass and smooth treble. Designed for both music lovers and everyday listeners, it combines refined tuning with elegant aesthetics for a beautifully balanced listening experience.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/Kiwi_Ears_Cadenza.webp"
+    },
+     {
+        "id": 19,
+        "name": "Kiwi x Media Chorus",
+        "title": "The Kiwi x Media Chorus features a unique hybrid structure combining one dynamic driver with four balanced armature drivers for a comprehensive audio experience.",
+        "price": 1134900,
+        "description": "The Kiwi x Media Chorus combines cutting-edge technology with premium materials to deliver exceptional sound quality. It features a polyurethane suspension composite liquid crystal dome diaphragm and a dual-cavity internal magnetic circuit dynamic driver of N52 magnet, ensuring precise sound reproduction. The DLP-3D printed cavity enhances the overall performance, making it a top choice for audiophiles.",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/KiwiEarsxBMediaChorus_1.webp"
+    },
+     {
+        "id": 20,
+        "name": "SIMGOT EW300",
+        "title": "The SIMGOT EW300 features a cutting-edge 1DD+1Planar+1PZT Tribrid setup for a balanced and immersive sound experience.",
+        "price": 1134900,
+        "description": "The SIMGOT EW300 features a premium setup with 1 dynamic driver, 1 planar driver, and 1 piezoelectric ceramic driver on each side. Balancing the acoustic characteristics across these drivers required careful consideration. After extensive material adjustments and acoustic testing, a tri-matrix acoustic architecture was crafted. The 10mm ceramic-like diaphragm dynamic driver delivers strong, detailed bass and rich vocals, while the 6mm annular magnetic driver and custom piezoelectric drivers enhance high frequencies. This design ensures a seamless, unified sound, providing an exceptional listening experience with wired IEMs. ",
+        "category": "in-ear monitors",
+        "image": "/Assets/img/SIMGOTEW300.webp"
+    }
+        
+]
+

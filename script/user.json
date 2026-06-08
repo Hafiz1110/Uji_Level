@@ -1,0 +1,30 @@
+[
+    {
+        "email": "silithitam@gmail.com",
+        "password": "pwnyaganteng",
+        "name": "Silithitam"
+
+    },
+    {
+        "email": "apalah@gmail.com",
+        "password": "password456",
+        "name": "Apalah"
+    },
+    {
+        "email": "test@gmail.com",
+        "password": "test123",
+        "name": "Test User"
+    },
+    {
+        "email": "badot@gmail.com",
+        "password": "badot123",
+        "name": "Badot"
+    },
+    {
+        "email": "h1@gmail.com",
+        "password": "h123",
+        "name": "Hilion"
+    }
+
+
+]

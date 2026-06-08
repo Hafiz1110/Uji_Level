@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./output.css">
+    <title>Login</title>
+</head>
+<body class="bg-white  min-h-screen flex items-center justify-center p-4">
+    <div class="bg-white p-6 sm:p-8 rounded-lg shadow-lg border border-taupe-700 w-full max-w-md">
+        <h2 class="text-2xl sm:text-3xl font-bold text-taupe-700 text-center mb-6">Login to Dashboard</h2>
+        <div class="flex flex-col gap-4">
+            <input id="email" type="email" placeholder="Enter your email" class="bg-white text-black border border-taupe-700 rounded-md px-4 py-2 sm:py-3 focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm sm:text-base">
+            <input id="password" type="password" placeholder="Enter your password" class="bg-white text-black border border-taupe-700 rounded-md px-4 py-2 sm:py-3 focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm sm:text-base">
+            <button onclick="login()" class="bg-taupe-400 hover:bg-taupe-700 text-white rounded-md py-2 sm:py-3 transition-colors font-semibold text-sm sm:text-base">Login</button>
+        </div>
+        <p class="text-gray-400 text-center mt-4 text-sm sm:text-base">Welcome back! Please enter your credentials.</p>
+    </div>
+
+    <script src="../script/login_und_profile.js"></script>
+</body>
+</html>
