@@ -1,4 +1,15 @@
 // Cart Utility Functions
+function getLoginRedirectPath() {
+  return window.location.pathname.includes('/src/') ? 'login.html' : 'src/login.html';
+}
+
+function ensureLogin(action = 'use this feature') {
+  if (sessionStorage.getItem('name')) return true;
+  alert(`Please log in to ${action}.`);
+  window.location.href = getLoginRedirectPath();
+  return false;
+}
+
 const Cart = {
   // Get cart from localStorage
   getCart() {
@@ -13,6 +24,10 @@ const Cart = {
 
   // Add item to cart
   addToCart(product) {
+    if (!ensureLogin('add items to your cart')) {
+      return this.getCart();
+    }
+
     const cart = this.getCart();
     const existingItem = cart.find(item => item.id === product.id);
 
@@ -71,14 +86,21 @@ checkboxToggle(productId) {
 function checkout() {
   const cart = Cart.getCart();
   const checkedItems = cart.filter(item => item.checked);
-    if (checkedItems.length === 0) {
-        alert('Please select at least one item to checkout.');
-        return;
-    }
-    const total = Cart.calculateTotal(cart);
-    alert(`You have checked out ${checkedItems.length} item(s) for a total of ${total.toLocaleString('id-ID', { style: 'currency', currency: 'IDR' })}.`);
-  
-    
+  if (checkedItems.length === 0) {
+    alert('Please select at least one item to checkout.');
+    return;
+  }
 
+  if (!ensureLogin('checkout')) {
+    return;
+  }
 
+  const total = Cart.calculateTotal(cart);
+  const removeIds = checkedItems.map(item => item.id);
+  const newCart = cart.filter(item => !removeIds.includes(item.id));
+  Cart.saveCart(newCart);
+  if (typeof displayCart === 'function') {
+    displayCart();
+  }
+  alert(`You have checked out ${checkedItems.length} item(s) for a total of ${total.toLocaleString('id-ID', { style: 'currency', currency: 'IDR' })}.`);
 }

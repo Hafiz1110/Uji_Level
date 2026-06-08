@@ -143,4 +143,5 @@ function updateOrderSummary(cart) {
 }
 
 
+
 window.addEventListener('DOMContentLoaded', displayCart);
